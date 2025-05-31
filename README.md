@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Husain Althagafi</h1>
-<h3 align="center">A Comp Sci student at KFUPM interested in Artificial Intelligence applications, backend development, and increasing shareholder value.</h3>
+<h3 align="center">A Comp Sci student at KFUPM interested in Artificial Intelligence applications, backend development, and INCREASING SHAREHOLDER VALUE.</h3>
 
 - 🔭 I’m currently enrolled in **the final stage of the KAUST AI summer program**
 
