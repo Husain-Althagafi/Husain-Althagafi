@@ -1,5 +1,5 @@
 ## Hi :), I'm Husain Althagafi
-## A Comp Sci student at KFUPM interested in Artificial Intelligence applications, backend development, and INCREASING SHAREHOLDER VALUE
+### A Comp Sci student at KFUPM interested in Artificial Intelligence applications, backend development, and INCREASING SHAREHOLDER VALUE
 
 <!--
 **Husain-Althagafi/Husain-Althagafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Husain Althagafi</h1>
-<h3 align="center">A Comp Sci student at KFUPM interested in Artificial Intelligence applications, backend development, and INCREASING SHAREHOLDER VALUE.</h3>
+
 
 - 🔭 I’m currently enrolled in 
 **the final stage of the KAUST AI summer program**
