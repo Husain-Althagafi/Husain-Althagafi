@@ -1,5 +1,5 @@
 ## Hi :), I'm Husain Althagafi
-### A Comp Sci student at KFUPM interested in Artificial Intelligence applications, backend development, and INCREASING SHAREHOLDER VALUE
+### A Comp Sci student at KFUPM interested in Artificial Intelligence applications and backend development
 
 <!--
 **Husain-Althagafi/Husain-Althagafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
