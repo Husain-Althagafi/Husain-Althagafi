@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Husain Althagafi</h1>
 <h3 align="center">A Comp Sci student at KFUPM interested in Artificial Intelligence applications, backend development, and INCREASING SHAREHOLDER VALUE.</h3>
 
-- 🔭 I’m currently enrolled in **the final stage of the KAUST AI summer program**
+- 🔭 I’m currently enrolled in 
+**the final stage of the KAUST AI summer program**
+**IBM Machine Learning specialization**
+**Meta Backend dev certification**
+**IBM Backend dev certification**
+
 
 - 🌱 I’m currently learning **Data science + Generative AI**
-
-- 👯 I would love to be involved in **full stack projects or AI applications**
 
 - 🤝 I’m looking for help with **benching 4 plates**
 
