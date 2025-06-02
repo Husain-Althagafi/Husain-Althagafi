@@ -1,5 +1,5 @@
 ## Hello my name is Husain Althagafi and this is my github
-### A Comp Sci student at KFUPM interested in Artificial Intelligence applications and backend development
+### I am a Comp Sci student at KFUPM interested in Artificial Intelligence applications and backend development
 
 <!--
 **Husain-Althagafi/Husain-Althagafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
