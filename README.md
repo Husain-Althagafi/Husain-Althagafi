@@ -1,4 +1,4 @@
-## Hi :), I'm Husain Althagafi
+## Hi I'm Husain Althagafi
 ### A Comp Sci student at KFUPM interested in Artificial Intelligence applications and backend development
 
 <!--
