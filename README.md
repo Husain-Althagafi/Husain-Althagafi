@@ -1,4 +1,4 @@
-## Hi I'm Husain Althagafi
+## Hello my name is Husain Althagafi and this is my github
 ### A Comp Sci student at KFUPM interested in Artificial Intelligence applications and backend development
 
 <!--
