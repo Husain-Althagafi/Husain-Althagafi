@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 Projects
 - A zero-shot filer sorter using generative AI to classify documents
-- A comprehensive analysis of the OpenIPF dataset, where I assessed the different scoring coefficients for fairness across different divisions
+- A comprehensive analysis of the OpenIPF dataset, where I conducted a full analysis of the dataset with a primary goal of evaluating the different coefficients' ability to accurately and fairly judge lifters across different divisions
 - Was a member of the backend development team for the Tazkyah web application
 - Did full-stack development for a league-style tournament management web application for KFUPM. This included a frontend, backend, and database
   
