@@ -1,4 +1,4 @@
-## Hello my name is Husain Althagafi and this is my github
+## Hello my name is Husain Althagafi and this is my github repo 0.0
 ### I am a Computer Science student at King Fahd University of Petroleum and Minerals. I am interested in Artificial Intelligence, Data Science, and Backend development
 
 <!--
