@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data science + Generative AI**
 
-- 🤝 I’m looking for help with **benching 4 plates**
+- 🤝 I would love to collaborate on any **Fullstack projects, Data Science projects, and any technical research related to data or AI**
 
 - 📫 How to reach me **husain.a.althagafi@okaz.com**
 
