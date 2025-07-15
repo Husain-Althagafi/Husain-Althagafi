@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently enrolled in 
 **the final stage of the KAUST AI summer program**
+  
 **IBM Machine Learning specialization**
+
 **Meta Backend dev certification**
+
 **IBM Backend dev certification**
 
 
