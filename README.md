@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **husain.a.althagafi@okaz.com**
 
 Projects
+- Research project as a part of KAUST Academy 2025 AI Summer. Made advancements to the SOTA in the field of EEG-to-Image reconstruction by implementing self-supervised techniques for better semantic alignment in reconstructed images. 
 - A zero-shot filer sorter using generative AI to classify documents
 - A comprehensive analysis of the OpenIPF dataset, where I conducted a full analysis of the dataset with a primary goal of evaluating the different coefficients' ability to accurately and fairly judge lifters across different divisions
 - Was a member of the backend development team for the Tazkyah web application
