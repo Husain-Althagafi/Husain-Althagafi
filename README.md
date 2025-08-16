@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently enrolled in
   
-**the final stage of the KAUST AI summer program**
+- **the final stage of the KAUST AI summer program**
   
-**IBM Machine Learning specialization**
+- **IBM Machine Learning specialization**
 
-**Meta Backend dev certification**
+- **Meta Backend dev certification**
 
-**IBM Backend dev certification**
+- **IBM Backend dev certification**
 
 
 - 🌱 I’m currently learning **Data science + Generative AI**
