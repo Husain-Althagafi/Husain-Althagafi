@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently enrolled in 
+- 🔭 I’m currently enrolled in
+  
 **the final stage of the KAUST AI summer program**
   
 **IBM Machine Learning specialization**
