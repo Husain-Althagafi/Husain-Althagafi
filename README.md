@@ -37,7 +37,6 @@
 
 ### 🛠️ My Tech Stack
 
-<!-- Added key technologies like Python, PyTorch, and Scikit-learn to match your "AI Developer" title. -->
 <p align="center">
   <!-- AI & Data Science -->
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
@@ -46,6 +45,9 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
   
   <br/>
+</p>
+
+<p align="center>
   
   <!-- Backend -->
   <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
@@ -63,8 +65,6 @@
 ---
 
 ### 📊 My GitHub Stats
-
-*This is a dynamic section that updates automatically. It shows you're active.*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
