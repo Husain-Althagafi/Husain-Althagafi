@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Husain Althagafi👋</h1>
 <p align="center">
-  A learning AI Developer from Saudi Arabia with an interest in Mathematics and AI technologies.
+  A passionate AI Developer from Saudi Arabia with an interest in Mathematics and AI technologies.
 </p>
 
 <!-- Social Badges Section -->
@@ -27,28 +27,23 @@
 
 ### 🚀 About Me
 
--   🔭 I’m currently working on **[Project Fursah](https://github.com/your-username/project-fursah-repo)**, an internship platform connecting students and companies in the MENA region.
--   🌱 I’m currently learning **[A new technology, e.g., GraphQL, Next.js, or a new language]**.
--   👯 I’m looking to collaborate on **[Types of projects, e.g., open-source React projects or social impact applications]**.
--   🤔 I’m looking for help with **[A specific challenge or topic, e.g., advanced PostgreSQL optimization]**.
--   💬 Ask me about **React, Node.js, Express, Prisma, and building full-stack applications**.
--   📫 How to reach me: **[your.email@example.com]** or through my LinkedIn profile.
--   😄 Pronouns: He/Him (or your pronouns)
--   ⚡ Fun fact: **[A fun, personal fact, e.g., I can solve a Rubik's Cube in under a minute!]**
+-   👯 I’m looking to collaborate on **[General AI applications, anything needing a backend, kaggle stuff]**.
+-   🤔 I’m looking for **[An internship or part-time work to gain further experience]**.
+-   💬 Ask me about **PyTorch, Node.js, Express**.
+-   📫 How to reach me: **[husain.a.althagafi@okaz.com]** or through my LinkedIn profile.
+-   ⚡ Fun fact: **[I am the 7th ranked powerlifter nationally within my division]**
 
 ---
 
 ### 🛠️ My Tech Stack
 
-*This section is great for recruiters. Use icons to make it visually appealing.*
-
+<!-- Added key technologies like Python, PyTorch, and Scikit-learn to match your "AI Developer" title. -->
 <p align="center">
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-  <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+  <!-- AI & Data Science -->
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
   
   <br/>
   
@@ -62,7 +57,6 @@
 
   <!-- Tools & Other -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
 </p>
 
@@ -86,18 +80,3 @@ This is a more advanced section. You can use GitHub Actions to automatically
 update this part of your README with your latest blog posts or YouTube videos.
 For now, you can link to them manually.
 -->
----
-
-### 📝 My Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
--   [How to Build a Full-Stack App with the MERN Stack](https://your-blog.com/post-1-url)
--   [Understanding JWTs: A Beginner's Guide](https://your-blog.com/post-2-url)
--   [Why I Chose Prisma as My ORM](https://your-blog.com/post-3-url)
-<!-- BLOG-POST-LIST:END -->
-
----
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/your-username/count.svg" />
-</p>
