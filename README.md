@@ -27,17 +27,14 @@
 
 ### 🚀 About Me
 
--   👯 I’m looking to collaborate on **[General AI applications, anything needing a backend, kaggle stuff]**.
+-   👯 I’m looking to collaborate on **[General AI applications, anything needing a backend, kaggle competitions]**.
 -   🤔 I’m looking for **[An internship or part-time work to gain further experience]**.
--   💬 Ask me about **PyTorch, Node.js, Express**.
 -   📫 How to reach me: **[husain.a.althagafi@okaz.com]** or through my LinkedIn profile.
--   ⚡ Fun fact: **[I am the 7th ranked powerlifter nationally within my division]**
 
 ---
 
 ### 🛠️ My Tech Stack
 
-<!-- Using a table for perfect alignment -->
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -112,12 +109,3 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husain-Althagafi&layout=compact&langs_count=8&theme=dracula" alt="Top Languages">
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husain-Althagafi&theme=dracula" alt="GitHub Streak">
-</p>
-
-<!-- 
-This is a more advanced section. You can use GitHub Actions to automatically 
-update this part of your README with your latest blog posts or YouTube videos.
-For now, you can link to them manually.
--->
