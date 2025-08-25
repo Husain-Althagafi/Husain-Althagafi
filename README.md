@@ -1,10 +1,5 @@
-<!-- 
-Hi, I'm [Your Name]! 
-This is the intro section. Keep it concise and engaging. 
-Use a GIF or a static banner image to add personality.
--->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o3dHBydjdhc3c5ZjhxZmZocHpnY25rZzBmaGRoY284ZXF2OTc0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" alt="Coding GIF" width="600"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o3dHBydjdhc3c5ZjhxZmZocHpnY25rZzBmaGRoY284ZXF2OTc0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif](https://www.bing.com/images/search?view=detailV2&insightstoken=bcid_VcwjprMfT9oI2Ht5i5LGbdYUNKuY.....28*ccid_zCOmsx9P&form=SBIWEB&vsimg=https%3a%2f%2fwww.bing.com%2fimages%2fblob%3fbcid%3dVcwjprMfT9oIqxcxoNWLuD9SqbotqVTdP8k&iss=VSI&sbisrc=ImgPicker&idpbck=1&sbifsz=2048+x+1420+%c2%b7+41.22+kB+%c2%b7+jpeg&sbifnm=86661a2987_1746547078563-1272509.jpg&thw=2048&thh=1420&ptime=60&dlen=56284&expw=1080&exph=748&selectedindex=0&id=4462E0169A850241F50743C20199FDF083406E9D&ccid=yUBIFkU7&vt=2&sim=11&simid=608022758734369748&ck=A317D21417D06B52133F533CFB23379E&thid=OIP.yUBIFkU7FXK0pE1BZ8WoaQHaFI&mediaurl=https%3A%2F%2Fexternal-preview.redd.it%2Fa8o6t2gOomfw6fbBoj4y9eTc5_CeNmPohSwAXboK71k.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D8e50513c6e3da30a5af073b200cb3620fdc2a1b9&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.c9404816453b1572b4a44d4167c5a869%3Frik%3DnW5Ag%252fD9mQHCQw%26pid%3DImgRaw%26r%3D0&cit=ccid_yUBIFkU7*cp_A317D21417D06B52133F533CFB23379E*mid_4462E0169A850241F50743C20199FDF083406E9D*simid_608022758734369748*thid_OIP.yUBIFkU7FXK0pE1BZ8WoaQHaFI)" width="600"/>
 </p>
 
 <h1 align="center">Hey there, I'm [Your Name] 👋</h1>
