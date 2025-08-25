@@ -45,8 +45,6 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
   
   <br/>
-</p>
-
 <p align="center>
   
   <!-- Backend -->
