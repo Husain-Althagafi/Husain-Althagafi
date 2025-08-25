@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://external-preview.redd.it/a8o6t2gOomfw6fbBoj4y9eTc5_CeNmPohSwAXboK71k.jpg?width=1080&crop=smart&auto=webp&s=8e50513c6e3da30a5af073b200cb3620fdc2a1b9" width="600"/>
 </p>
-
+-->
 <h1 align="center">Hi, I'm Husain Althagafi👋</h1>
 <p align="center">
   A passionate AI Developer from Saudi Arabia with an interest in Mathematics and AI technologies.
@@ -45,7 +45,6 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
   
   <br/>
-<p align="center>
   
   <!-- Backend -->
   <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
@@ -65,12 +64,12 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Husain-Althagafi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=dracula" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husain-Althagafi&layout=compact&langs_count=8&theme=dracula" alt="Top Languages">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husain-Althagafi&theme=dracula" alt="GitHub Streak">
 </p>
 
 <!-- 
