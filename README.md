@@ -33,6 +33,17 @@
 
 ---
 
+### Projects
+
+- ## Mindviz
+    A new SOTA in EEG-to-Image reconstruction using Deep Learning.
+- ## Tazkyah
+    A full-stack web application for the educational platform Tazkyah
+- ## KFUPM Course Tracker
+    A Telegram bot for tracking class sections at KFUPM
+
+---
+
 ### 🛠️ My Tech Stack
 
 <p align="center">
