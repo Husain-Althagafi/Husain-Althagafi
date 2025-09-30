@@ -27,9 +27,9 @@
 
 ### 🚀 About Me
 
--   👯 I’m looking to collaborate on **[General AI applications, anything needing a backend, kaggle competitions]**.
--   🤔 I’m looking for **[An internship or part-time work to gain further experience]**.
--   📫 How to reach me: **[husain.a.althagafi@okaz.com]** or through my LinkedIn profile.
+-   👯 I’m looking to collaborate on General AI applications, anything needing a backend, kaggle competitions.
+-   🤔 I’m looking for An internship or part-time work to gain further experience.
+-   📫 How to reach me: husain.a.althagafi@okaz.com or through my LinkedIn profile.
 
 ---
 
