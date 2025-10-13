@@ -2,9 +2,9 @@
   <img src="https://external-preview.redd.it/a8o6t2gOomfw6fbBoj4y9eTc5_CeNmPohSwAXboK71k.jpg?width=1080&crop=smart&auto=webp&s=8e50513c6e3da30a5af073b200cb3620fdc2a1b9" width="600"/>
 </p>
 -->
-<h1 align="center">Hi, I'm Husain Althagafi👋</h1>
+<h1 align="center">Hello, my name is Husain Althagafi</h1>
 <p align="center">
-  A passionate AI Developer from Saudi Arabia with an interest in Mathematics and AI technologies.
+  An AI Developer from Saudi Arabia with an interest in Mathematics and AI technologies.
 </p>
 
 <!-- Social Badges Section -->
