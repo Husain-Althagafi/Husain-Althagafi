@@ -36,7 +36,7 @@
 ### Projects
 
 - ## Mindviz
-    A new SOTA in EEG-to-Image reconstruction using Deep Learning.
+    Model for EEG-to-Image reconstruction using Contrastive Learning and Retrieval-Augmentation
 - ## Tazkyah
     A full-stack web application for the educational platform Tazkyah
 - ## KFUPM Course Tracker
