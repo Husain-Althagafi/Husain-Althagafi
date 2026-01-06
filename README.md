@@ -47,9 +47,9 @@
 
 ### Technical Experience
 
-- ## I am an alumni of the KAUST Academy AI specialization Program, one of the best (the best) AI programs in Saudi Arabia.
-- ## I have experience competing in different types of hackathons, including one with Roshn where I worked with my team to develop a AI-enabled dashboard for assisting in the management of construction sites. (I worked on an NLP-pipeline that incorporated OCR for automated form-filling.
-- ## Did freelance work with a team to revamp the Tazkyah website, making it a full-stack application instead of just an interface with no functionality.
+- I am an alumni of the KAUST Academy AI specialization Program, one of the best (the best) AI programs in Saudi Arabia.
+- I have experience competing in different types of hackathons, including one with Roshn where I worked with my team to develop a AI-enabled dashboard for assisting in the management of construction sites. (I worked on an NLP-pipeline that incorporated OCR for automated form-filling.
+- Did freelance work with a team to revamp the Tazkyah website, making it a full-stack application instead of just an interface with no functionality.
 
 
 ### 🚀 My Tech Stack
