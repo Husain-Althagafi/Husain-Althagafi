@@ -31,6 +31,7 @@
 -  I like cats
 -  I'm a nationally ranked powerlifter
 -  I like reading Sci-Fi and a lot of High Fantasty
+-  Pokerogue is peak
 
 ---
 
